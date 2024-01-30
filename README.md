@@ -2,7 +2,7 @@
 
 - My Background
 
-Studied economics. Fell into System Development in the Legal Tech Sector - Self taught. Over three years of experience working on large projects, dealing with requirements prioritisation, time constraints, and managing technical and non-technical stakeholders. Started offering my services as a consultant/freelancer in 2022 and managed to maintain my limited company. Money is good, but I need more exciting projects and technology that has the potential to change the world as we know it. 
+Studied economics. Self-taught System Development in the Legal Tech Sector. Over three years of experience working on large projects, dealing with end-to-end development life cycles, strict time constraints, and managing technical and non-technical stakeholders. Started offering my services as a consultant/freelancer in 2022 and managed to maintain my limited company. Money is good, but I need more exciting projects and technology that has the potential to change the world as we know it. 
 
 - Why Blockchain
   
