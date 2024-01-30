@@ -2,7 +2,7 @@
 
 # My Background
 
-I studied for an Economics BA. After graduation, I became a self-taught System Development in the Legal Tech Sector. Over three years of experience working on large projects, dealing with end-to-end development life cycles, strict time constraints, and managing technical and non-technical stakeholders. Started offering my services as a consultant/freelancer in 2022 and maintained my business since. Money is good, but I need more exciting projects and technology that has the potential to change the world as we know it. Plus I like the idea of fully remote work!
+I studied for an Economics BA. After graduation, I became a self-taught System Development in the Legal Tech Sector. Over three years of experience working on large projects, dealing with end-to-end development life cycles, strict time constraints, and managing technical and non-technical stakeholders. Started offering my services as a consultant/freelancer in 2022 and maintained my business since. Money is good, but I am drawn to technology that has the potential to change the world as we know it.
 
 # Why Blockchain
   
