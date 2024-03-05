@@ -16,7 +16,8 @@ February 24 - Participated in ETH Global CircuitBreaker and submitted a project 
 
 # I’m currently learning
 
-Working through speedrunEth challenges. Currently on challenge 5/7.
+Working through speedrunEth challenges. Currently on challenge 6/7.
+Starting Damn Vulnerable Defi 1/15
 
-Contemplating my next project/hackathon ...
+Contemplating my next project/hackathon. A web3 card game maybe? 
 
