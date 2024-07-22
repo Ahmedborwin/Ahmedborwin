@@ -1,11 +1,11 @@
-### Hi, I am Ahmed 👋
 
-# 👨‍💻 Muhammed Shahinsha P 
+
+# 👨‍💻 Hi, I am Ahmed 👋
 
 **`Blockchain Developer`**
 
 #### 📚 Education: Economics Graduate
-#### 🕰️ Experience: Freelance Developer
+#### 🕰️ Experience: Freelance Systems Developer For 3 Years
  
    <div align="left"> 
   <a href="mailto:ahmedborwin01@gmail.com">
