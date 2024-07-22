@@ -29,24 +29,28 @@
 
 ---
 
-# My Background
+## My Background
 
 I studied for an Economics BA. After graduation, I became a self-taught System Developer in the Legal Tech Sector. Over four years of experience working on large projects, dealing with end-to-end development life cycles, strict time constraints, and managing technical and non-technical stakeholders. Started offering my services as a consultant/freelancer in 2022 and maintained my business since. Money is good, but I am drawn to technology that has the potential to change the world as we know it.
 
-# Why Blockchain
+## Blockchain Education
+
   
-This field represents not just a technological frontier, but a personal renaissance of my childhood dreams. It's an area where innovative thinking and bold steps are not just welcomed, but essential. I am sharpening my machete, ready to hack away at the dense undergrowth, as web3 is built and defined. There will be cuts and bruises, but, it will be worth it!
+### Dapp University Mentorship September 23 - January 23
+### Encodes Advanced Solidity Bootcamp June 24 - July 24
 
-# Projects
-  
-Leveraging my current skills in Solidity and front-end development, I've successfully participated in the Chainlink Constellation hackathon, securing a top-quality prize. My objective for this year is to engage in at least three hackathons, marking each achievement here as a testament to my continuous growth.
 
-February 24 - Participated in ETH Global CircuitBreaker and submitted a project called zkCV. We played around with the "temporary anonymity". Using an anonymous CV submission process as a use case. Semaphore protocol is used to anonymously send a signal, which is the IPFS hash of the CV, and attest to the CV hash at the same time. THe UID of the attestation is used to confirm ownership of the chosen CV. 
+## Projects
 
-# I’m currently learning
 
-Working through speedrunEth challenges. Currently on challenge 6/7.
-Starting Damn Vulnerable Defi 1/15
+### ChainRunners - Chainlink Hackathon
+Leveraging my Solidity and front-end development skills, I've successfully participated in the Chainlink Constellation hackathon, securing a top-quality prize. My objective for this year is to engage in at least three hackathons, marking each achievement here as a testament to my continuous growth.
 
-Contemplating my next project/hackathon. A web3 card game maybe? 
+### ZK CV - ETH Global Hackathon
+February 24 - Participated in ETH Global CircuitBreaker and submitted a project called zkCV. We played around with the "temporary anonymity". Using an anonymous CV submission process as a use case. Semaphore protocol is used to anonymously send a signal, which is the IPFS hash of the CV, and attest to the CV hash at the same time. The UID of the attestation is used to confirm ownership of the chosen CV. 
+
+### ALVO - Nights and Weekends
+Goal setting meets smart contracts. Choose a strava-based or geolocation-based goal and write your goal on-chain plus deposit a stake. API reviews whether the user has met their target and if not they forfeit a portion of their deposit to a forfeit address they have chosen. This can be a charity of someone they know.
+
+
 
