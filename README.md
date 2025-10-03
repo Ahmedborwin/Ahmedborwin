@@ -2,10 +2,10 @@
 
 # 👨‍💻 Hi, I am Ahmed 👋
 
-**`Blockchain Developer`**
+**`Legal Tech Dev`**
 
 #### 📚 Education: Economics Graduate
-#### 🕰️ Experience: Freelance Systems Developer For 3 Years
+#### 🕰️ Experience:  Legal Tech Developer For 5+ Years
  
    <div align="left"> 
   <a href="mailto:ahmedborwin01@gmail.com">
